@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './navbar.js';
+import Card from './Card.js';
 
 function App() {
   return (
